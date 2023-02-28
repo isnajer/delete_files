@@ -1,4 +1,4 @@
-Python script allowing you access downloads folder and delete specific files from that downloads folder.
+Python script allowing you access a folder and delete specific files.
 
 #Initialize virtual env:
 `python3 -m venv .venv`
